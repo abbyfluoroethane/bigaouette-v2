@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+div {
+    background-color: #1E0112;
+}
+
+h1 {
+    text-align: right;
+    color: #E6815E;
+    font-size: 48pt;
+    font-family: Atkinson Hyperlegibe;
+    font-weight: 700;
+}
+
+body {
+    text-align: left;
+    color: #E6815E;
+    font-size: 20pt;
+    font-family: Atkinson Hyperlegibe;
+    font-weight: 400;
+    background-color: #1E0112;
+}
