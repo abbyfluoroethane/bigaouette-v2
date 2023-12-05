@@ -8,7 +8,7 @@ h1 {
     text-align: right;
     color: #E6815E;
     font-size: 48pt;
-    font-family: Atkinson Hyperlegibe;
+    font-family: Atkinson+Hyperlegible;
     font-weight: 700;
 }
 
@@ -16,7 +16,7 @@ body {
     text-align: left;
     color: #E6815E;
     font-size: 20pt;
-    font-family: Atkinson Hyperlegibe;
+    font-family: Atkinson Hyperlegible;
     font-weight: 400;
     background-color: #1E0112;
 }
